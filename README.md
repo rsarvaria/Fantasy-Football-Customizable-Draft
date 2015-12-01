@@ -14,6 +14,6 @@ Run with the Flask framework for Python backend
  * Auto-draft available and AI created for it
   * Different types of AI (Fill starting, RB heavy, skill heavy, etc)
 * To-draft list used for auto-draft
-* 
+* Movile draft client
 
 # Completed
