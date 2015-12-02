@@ -2,6 +2,12 @@
 Wasn't a fan of NFL's draft process so I created one for my league to 
 
 
+# Uses the following technologies
+* Python
+ * Tornado 4.3
+* Javascript
+
+
 Run with the Flask framework for Python backend
 
 # Goals
